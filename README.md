@@ -6,7 +6,7 @@
 <li>pkg update -y
 <li>pkg upgrade -y
 <li>pkg install git -y 
-<li>git clone https://github.com/MrRC09/psql.git
+<li>git clone https://github.com/gauravprajapati23/psql
 <li>cd psql
 <li>chmod +x *
 <li>./psql.sh
